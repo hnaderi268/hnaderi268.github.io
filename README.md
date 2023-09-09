@@ -1,2 +1,2 @@
 # hnaderi268.github.io
-hnaderi268's blog
+Moved to [hnaderi268.blog](https://hnaderi268.blog)
